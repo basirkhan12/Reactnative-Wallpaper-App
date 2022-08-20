@@ -1,0 +1,1 @@
+export const SELECTE_CATAGORY = 'SELECTE_CATAGORY';

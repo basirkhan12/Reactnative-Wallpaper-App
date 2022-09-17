@@ -80,3 +80,32 @@ const styles = StyleSheet.create({
 
 //make this component available to the app
 export default HomeScrennTop;
+
+
+
+
+/test-ilias-blabla/
+    / testblabla /
+    /test2611/
+    / en / testblabla - engels /
+    /en/test2611 /
+    /mokumflex-reserveren-landelijk-noord/
+    / mokumflex - reserveren - driemond /
+    /en/mokumflex - reservation - landelijk - noord /
+    /en/mokumflex - reservation - driemond /
+    /reserveren/
+    / en / make - a - reservation /
+    /vluchtnummer/
+    / madame /
+    /rolls/
+    / rolstoeltaxi - reserveren /
+    /en/wheelchair - taxi - reservation /
+    /taxi-amsterdam/
+    / rotterdam - taxi /
+    /en/number /
+    /covid-taxi-reserveren/
+    / en / covid - taxi - reservation /
+    /vaxi-taxi/
+    / en / vaxi - taxi - reservation /
+    /vrouwentaxi-reserveren/
+    / en / female - taxi - reservation /
